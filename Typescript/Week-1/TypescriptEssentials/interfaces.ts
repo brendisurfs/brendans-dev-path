@@ -1,6 +1,3 @@
-import { collapseTextChangeRangesAcrossMultipleVersions } from 'typescript'
-
-const hello = "nice";
 interface Employee {
     name: string;
     title: string;
